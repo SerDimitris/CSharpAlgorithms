@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\bin\Debug\net8.0\TripleSumForEqualIntegers.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\bin\Debug\net8.0\TripleSumForEqualIntegers.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\bin\Debug\net8.0\TripleSumForEqualIntegers.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\bin\Debug\net8.0\TripleSumForEqualIntegers.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\bin\Debug\net8.0\TripleSumForEqualIntegers.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\TripleSumForEqualIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\TripleSumForEqualIntegers.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\TripleSumForEqualIntegers.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\TripleSumForEqualIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\TripleSumForEqualIntegers.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\refint\TripleSumForEqualIntegers.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\TripleSumForEqualIntegers.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\TripleSumForEqualIntegers.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\TripleSumForEqualIntegers\obj\Debug\net8.0\ref\TripleSumForEqualIntegers.dll
