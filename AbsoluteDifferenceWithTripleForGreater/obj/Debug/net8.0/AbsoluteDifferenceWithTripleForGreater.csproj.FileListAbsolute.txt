@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\bin\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\bin\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\bin\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\bin\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\bin\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\refint\AbsoluteDifferenceWithTripleForGreater.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\AbsoluteDifferenceWithTripleForGreater.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AbsoluteDifferenceWithTripleForGreater\obj\Debug\net8.0\ref\AbsoluteDifferenceWithTripleForGreater.dll
