@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\bin\Debug\net8.0\AddIfToStringIfAbsent.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\bin\Debug\net8.0\AddIfToStringIfAbsent.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\bin\Debug\net8.0\AddIfToStringIfAbsent.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\bin\Debug\net8.0\AddIfToStringIfAbsent.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\bin\Debug\net8.0\AddIfToStringIfAbsent.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\AddIfToStringIfAbsent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\AddIfToStringIfAbsent.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\AddIfToStringIfAbsent.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\AddIfToStringIfAbsent.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\AddIfToStringIfAbsent.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\AddIfToStringIfAbsent.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\refint\AddIfToStringIfAbsent.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\AddIfToStringIfAbsent.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\AddIfToStringIfAbsent.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\AddIfToStringIfAbsent\obj\Debug\net8.0\ref\AddIfToStringIfAbsent.dll

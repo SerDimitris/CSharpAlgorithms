@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TripleSumForEqualIntegers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3446f247ba6b5d2564b8cc25413057a70eb087c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74c6ffa981d93c8e013518f02696b5f0c00999c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TripleSumForEqualIntegers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TripleSumForEqualIntegers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

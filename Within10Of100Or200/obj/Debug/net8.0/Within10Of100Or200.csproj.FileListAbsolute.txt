@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\bin\Debug\net8.0\Within10Of100Or200.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\bin\Debug\net8.0\Within10Of100Or200.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\bin\Debug\net8.0\Within10Of100Or200.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\bin\Debug\net8.0\Within10Of100Or200.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\bin\Debug\net8.0\Within10Of100Or200.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\Within10Of100Or200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\Within10Of100Or200.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\Within10Of100Or200.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\Within10Of100Or200.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\Within10Of100Or200.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\Within10Of100Or200.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\refint\Within10Of100Or200.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\Within10Of100Or200.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\Within10Of100Or200.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\Within10Of100Or200\obj\Debug\net8.0\ref\Within10Of100Or200.dll

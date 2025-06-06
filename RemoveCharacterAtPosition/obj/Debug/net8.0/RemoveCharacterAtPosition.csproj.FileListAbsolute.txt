@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\bin\Debug\net8.0\RemoveCharacterAtPosition.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\bin\Debug\net8.0\RemoveCharacterAtPosition.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\bin\Debug\net8.0\RemoveCharacterAtPosition.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\bin\Debug\net8.0\RemoveCharacterAtPosition.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\bin\Debug\net8.0\RemoveCharacterAtPosition.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\RemoveCharacterAtPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\RemoveCharacterAtPosition.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\RemoveCharacterAtPosition.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\RemoveCharacterAtPosition.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\RemoveCharacterAtPosition.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\RemoveCharacterAtPosition.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\refint\RemoveCharacterAtPosition.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\RemoveCharacterAtPosition.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\RemoveCharacterAtPosition.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\RemoveCharacterAtPosition\obj\Debug\net8.0\ref\RemoveCharacterAtPosition.dll
