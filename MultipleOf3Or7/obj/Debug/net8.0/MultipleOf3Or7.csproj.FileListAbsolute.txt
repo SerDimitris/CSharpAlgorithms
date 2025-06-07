@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\bin\Debug\net8.0\MultipleOf3Or7.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\bin\Debug\net8.0\MultipleOf3Or7.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\bin\Debug\net8.0\MultipleOf3Or7.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\bin\Debug\net8.0\MultipleOf3Or7.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\bin\Debug\net8.0\MultipleOf3Or7.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\MultipleOf3Or7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\MultipleOf3Or7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\MultipleOf3Or7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\MultipleOf3Or7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\MultipleOf3Or7.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\MultipleOf3Or7.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\refint\MultipleOf3Or7.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\MultipleOf3Or7.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\MultipleOf3Or7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpAlgorithms\MultipleOf3Or7\obj\Debug\net8.0\ref\MultipleOf3Or7.dll

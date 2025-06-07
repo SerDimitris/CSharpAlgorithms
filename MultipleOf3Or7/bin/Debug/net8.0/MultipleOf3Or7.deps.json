@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MultipleOf3Or7/1.0.0": {
+        "runtime": {
+          "MultipleOf3Or7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultipleOf3Or7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
